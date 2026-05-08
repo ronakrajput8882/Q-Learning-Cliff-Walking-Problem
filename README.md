@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🧠%20Q-Learning%20Cliff%20Walking&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reinforcement%20Learning%20|%20Model-Free%20|%20Gymnasium&descAlignY=60&descAlign=50" width="100%"/>
 
+<div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-0.29-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)](https://gymnasium.farama.org)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+</div>
 
 ---
 
